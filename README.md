@@ -1,5 +1,4 @@
-import pypandoc, os
-md = r'''<div align="center">
+<div align="center">
 
 # `SAVITHYA.MUTHUNIMA`
 
